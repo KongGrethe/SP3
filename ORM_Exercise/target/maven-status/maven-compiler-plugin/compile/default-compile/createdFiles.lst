@@ -1,0 +1,9 @@
+Entity/DiscountFixed_.class
+Entity/DiscountQuantity.class
+Entity/DiscountType.class
+Entity/DiscountType_.class
+Entity/Customer_.class
+Entity/DiscountQuantity_.class
+Entity/DiscountFixed.class
+Entity/Customer.class
+test/SchemaBuilder.class
